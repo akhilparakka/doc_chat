@@ -1,0 +1,3 @@
+- Install dependencies pip install
+- Download a model. Try llama2 from huggingface and place it in root.
+- streamlit run app.py
